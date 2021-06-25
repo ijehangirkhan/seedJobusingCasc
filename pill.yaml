@@ -33,7 +33,7 @@ jobs:
                             // refspec(String refspec)
 
                             // Sets the remote URL.
-                            url("https://github.com/ijehangirkhan/jenkinsSeedJob.git") } }
+                            url("https://github.com/ijehangirkhan/seedJobusingCasc.git") } }
 
                 steps {
                         dsl {
